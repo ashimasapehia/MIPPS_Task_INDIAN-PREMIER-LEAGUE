@@ -5,3 +5,4 @@ INDIAN PREMIER LEAGUE
 3.What other suggestions you can derive through this EDA?,thus sgguest teams or players a company should endorse for its products.
 
 Video Explanation:
+https://drive.google.com/file/d/1x7SmDYkQhKzBSbNhc8YX83sWYP6sJZkl/view?usp=share_link
